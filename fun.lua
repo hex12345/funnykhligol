@@ -1,1 +1,1 @@
-print("HELLO FROM THE OTHER SIDE LMFAO")
+print("fun")
